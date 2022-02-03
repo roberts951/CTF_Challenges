@@ -1,3 +1,6 @@
+#####Credit:https://github.com/novakeith/ for the script, I simply added valid coord check and geocoder#######
+
+
 #!/usr/bin/env python3
 #permutation tool - generate permutations then do operations based on those permutations
 #the operations are in the successive "if" section on lines 19-26
